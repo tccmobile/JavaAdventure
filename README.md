@@ -1,0 +1,2 @@
+# JavaAdventure
+Class Example
